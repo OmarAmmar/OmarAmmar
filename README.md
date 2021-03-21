@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmarAmmar
 - 👀 I’m interested in Computer science and its relation to psychology and math
-- 🌱 I’m currently learning Computer engineering as well as general psychology in METU NCC
+- 🌱 I’m currently studying Computer engineering as well as general psychology in METU NCC
 - 📫 How to reach me on my email : oammar.201@gmail.com
 
 <!---
