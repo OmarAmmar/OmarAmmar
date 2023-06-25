@@ -32,14 +32,6 @@ Enthusiastic Computer Engineering Graduate. Deep interest in Data and Machine le
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=OmarAmmar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-                    
 
 <!---
 OmarAmmar/OmarAmmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
