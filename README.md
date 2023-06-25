@@ -3,6 +3,7 @@
 Enthusiastic Computer Engineering Graduate. Deep interest in Data and Machine learning fields. I have undergone several courses and internship and looking for an opportunity to kickstart my career. Every once in a while I compete in Kaggle Competitions :)
 
 ## My Top Skills
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
@@ -13,9 +14,10 @@ Enthusiastic Computer Engineering Graduate. Deep interest in Data and Machine le
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-                      
+</p>                   
 
 ## I know a thing or two about !
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
@@ -26,7 +28,7 @@ Enthusiastic Computer Engineering Graduate. Deep interest in Data and Machine le
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-                  
+</p>            
           
           
                     
