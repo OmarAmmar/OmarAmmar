@@ -13,7 +13,6 @@ Enthusiastic Computer Engineering Graduate. Deep interest in Data and Machine le
 
 # I know a thing or two about !
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = "35" height = "35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = "35" height = "35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"width = "35" height = "35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width = "35" height = "35"/>
